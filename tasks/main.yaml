@@ -1,3 +1,4 @@
+---
 - name: Create default user
   become: true
   ansible.builtin.user:
