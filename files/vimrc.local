@@ -1,0 +1,8 @@
+syntax on
+
+set background=dark
+set esckeys
+set ruler
+set nu
+set laststatus=2
+set nobackup
