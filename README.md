@@ -12,7 +12,7 @@ The role is meant to be installed on a machine running a Debian distribution.
 
 Available variables are listed below, along with default values (see `defaults/main.yml`):
 
-- `default_user: uoc` The user name to be created.
+- `uoc_user: uoc` The name of the user to be created.
 
 ## Dependencies
 
