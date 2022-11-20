@@ -5,3 +5,7 @@ rules:
   line-length:
     max: 80
     level: warning
+
+  # Support for Ansible convention.
+  truthy:
+    allowed-values: ['true', 'false', 'yes', 'no']
